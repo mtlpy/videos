@@ -8,4 +8,4 @@ Thanks to [Christian Aubry](https://twitter.com/ChristianAubry) (with [Savoir-Fa
 
 Now that Christian has some other projects to pursue, we want to own this and learn how to make amazing videos.
 
-Take a look at our [setup](setup/setup.md).
+Take a look at our [setup](docs/video_setup.md).
